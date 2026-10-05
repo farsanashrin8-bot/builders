@@ -1,9 +1,9 @@
 import React from 'react'
-import { MdEmail } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { FaInstagramSquare } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
+import { MdEmail } from 'react-icons/md';
 function Footer() {
   return (
     <div style={{height:'400px',backgroundColor:'purple'}} className='d-flex align-items-center justify-content-center text-light flex-column'>
